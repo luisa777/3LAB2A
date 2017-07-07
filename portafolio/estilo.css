@@ -1,0 +1,41 @@
+.inicio{
+	background: #454143;
+}
+span{
+	color: #fff;
+}
+.c2{
+	background: #4F4F4F;
+}
+p,h1{
+	color: #fff;
+}
+.c3{
+	background: #FFFFFF;
+}
+.text{
+	color: #000000;
+}
+.boton{
+	width: 200px;
+	height: 50px;
+	background: #00BFD3;
+	margin:0 auto;
+	border-radius: 10px;
+	box-shadow: 2px 5px 5px #2E64FE;
+}
+h4{
+	color: #000000;
+}
+.c5{
+	background: #FAFAFA;
+}
+h5{
+	color: #000000;
+}
+h6,b{
+	color: #000000;
+}
+.C6{
+	background: #FAFAFA;
+}
